@@ -1,0 +1,8 @@
+# Large downloadable archives are hosted separately from the GitHub Pages site.
+assets/zips/**/*.zip
+
+# Local OS/editor noise.
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
